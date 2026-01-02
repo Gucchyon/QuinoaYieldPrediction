@@ -175,7 +175,7 @@ SOFTWARE.
 
 ## Contact
 
-For questions or issues, please contact [your contact information].
+For questions or issues regarding this code, please contact Gucchyon via GitHub at https://github.com/Gucchyon/QuinoaYieldPrediction or open an issue in the repository.
 
 ## Acknowledgments
 
